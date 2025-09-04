@@ -28,17 +28,18 @@
 使用方法
 1. 克隆项目
    git clone https://github.com/zhkali127/nsfocus-report-extractor.git
+
    cd nsfocus-report-extractor
 
-2. 安装依赖
+3. 安装依赖
    pip install -r requirements.txt
 
-3. 将绿盟扫描报告压缩包 (如: 绿盟.zip) 放到当前目录
+4. 将绿盟扫描报告压缩包 (如: 绿盟.zip) 放到当前目录
 
-4. 运行脚本
+5. 运行脚本
    python main.py
 
-5. 转换完成后，可以在 整理结果/ 目录下找到生成的 Excel 文件
+6. 转换完成后，可以在 整理结果/ 目录下找到生成的 Excel 文件
 
 作者信息
 - 作者: zhkali127
