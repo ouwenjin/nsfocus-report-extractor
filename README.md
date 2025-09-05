@@ -2,6 +2,8 @@
 
 > 从各种扫描器（如国产/第三方扫描器导出的 HTML / ZIP 包）中提取漏洞信息与开放端口，生成统一的 Excel 报表（`漏洞报告.xlsx`、`开放端口.xlsx`）。
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+
 仓库：
 
 * GitHub: `https://github.com/ouwenjin/nsfocus-report-extractor`
